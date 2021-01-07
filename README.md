@@ -1,2 +1,3 @@
 # hello-world
-Testing purposes
+
+Doing this introductionary project as part of Adv Web Design.
